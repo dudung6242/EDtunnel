@@ -1,11 +1,11 @@
-name = "ableh2"
+name = "ableh3"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 # node_compat = true
 workers_dev = true
 
 [vars]
-PROXYIP = "8.219.99.8:443"
+PROXYIP = "156.59.130.91:443"
 UUID = "3652fcf8-8726-40af-b3cb-de611009d680"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
