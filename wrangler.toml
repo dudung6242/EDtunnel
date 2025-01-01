@@ -1,11 +1,11 @@
-name = "able43"
+name = "able23"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 # node_compat = true
 workers_dev = true
 
 [vars]
-PROXYIP = "43.159.103.85:443"
+PROXYIP = "178.128.48.100:443"
 UUID = "3652fcf8-8726-40af-b3cb-de611009d680"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
