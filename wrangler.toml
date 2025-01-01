@@ -1,11 +1,11 @@
-name = "usep"
+name = "usep1"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 # node_compat = true
 workers_dev = true
 
 [vars]
-PROXYIP = "188.166.183.136:443"
+PROXYIP = "172.232.239.147:587:443"
 UUID = "3652fcf8-8726-40af-b3cb-de611009d680"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
